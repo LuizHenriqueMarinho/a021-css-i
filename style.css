@@ -1,0 +1,42 @@
+main
+{
+    font-family: helvetica;
+    font-size: 13.5px;
+}
+.bloco
+{
+    color: white;
+    margin: 10px 7px 10px 7px;
+    padding: 2px 4px 6px 10px;
+    width: 250px;
+    height: 60px;
+}
+
+#bloco-1
+{
+    background-color: rgb(216, 141, 0);
+    border: solid  rgb(230, 196, 132) 7px;
+}   
+
+#bloco-2
+{
+    background-color: rgb(31, 146, 31);
+    border: solid  rgb(72, 186, 72) 7px;
+}   
+
+#bloco-3
+{
+    background-color: rgb(5, 64, 5);
+    border: dashed  rgb(102, 210, 102) 7px;
+}   
+
+#bloco-4
+{
+    background-color: rgb(142, 56, 56);
+    border: dashed  rgb(224, 111, 111) 7px;
+}   
+
+p
+{
+    margin-top: -15px  /* deixa as linhas juntas */
+}
